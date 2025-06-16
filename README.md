@@ -1,4 +1,4 @@
-# bookworm_cpsc5250
+# Bookworm
 
 A new Flutter project.
 
