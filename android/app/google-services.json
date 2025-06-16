@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "187080259545",
+    "project_id": "bookworm-317ec",
+    "storage_bucket": "bookworm-317ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187080259545:android:451de4cbd895a12291cbc8",
+        "android_client_info": {
+          "package_name": "edu.seattleu.bookworm_cpsc5250"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnHPpM3Y6IKdihVu_RGLE2RU1ZKAakvUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
