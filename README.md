@@ -1,16 +1,21 @@
-# Bookworm
+# 📚 Bookworm
 
-A new Flutter project.
+Bookworm is a Flutter application that helps users manage their personal book collections. Whether you're a casual reader or a serious bibliophile, Bookworm provides an intuitive and modern way to catalog, organize, and explore your library.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- 📖 Add books manually, by scanning ISBNs, or searching by title
+- 🔍 Search and filter books in your collection
+- 🗂️ Organize books by genre, author, or custom categories
+- ☁️ Firebase integration for real-time database and user authentication
+- 🎯 Clean, responsive UI built with Flutter
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Frontend:** Flutter (Dart)
+- Backend/Storage:** Firebase (Authentication, Firestore)
+- State Management:** Provider
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📦 Installation
+
+Make sure you have [Flutter](https://flutter.dev/docs/get-started/install) installed and configured.
