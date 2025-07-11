@@ -12,9 +12,9 @@ Bookworm is a Flutter application that helps users manage their personal book co
 
 ## 🚀 Tech Stack
 
-- Frontend:** Flutter (Dart)
-- Backend/Storage:** Firebase (Authentication, Firestore)
-- State Management:** Provider
+- Frontend: Flutter (Dart)
+- Backend/Storage: Firebase (Authentication, Firestore)
+- State Management: Provider
 
 ## 📦 Installation
 
